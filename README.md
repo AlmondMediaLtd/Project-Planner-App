@@ -1,2 +1,2 @@
-# ProjectXApp
-Project X App Repo
+# Project App (For Planners)
+App Code Repo
